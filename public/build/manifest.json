@@ -1,0 +1,25 @@
+{
+  "public/images/background-atas.gif": {
+    "file": "assets/background-atas-aFI-xvWa.gif",
+    "src": "public/images/background-atas.gif"
+  },
+  "public/images/background-nav.png": {
+    "file": "assets/background-nav-CZA4T547.png",
+    "src": "public/images/background-nav.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CLBJg4BG.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Due1s3iS.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
