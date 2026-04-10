@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="canonical" href="https://on-0354.up.railway.app/">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <title>Cloud 9
     </title>
     <link rel="icon" type="image/png" href="/images/01.png">
