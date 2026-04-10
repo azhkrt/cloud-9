@@ -15,14 +15,13 @@
 
 <body>
     <!--navbar-->
-    <section
-        class="bg-black bg-[url('/public/images/background-nav.png')] bg-[position:center_1rem] no-repeat bg-cover sticky top-0 z-50">
+    <section class=" bg-[position:center_1rem] no-repeat bg-cover sticky top-0 z-50">
         <nav class="bg-slate-100/20 backdrop-blur-sm p-4">
             <div class="container flex items-center justify-between">
                 <a href="/"
                     class="inline-block text-slate-900 text-3xl font-bold ml-auto rounded-md transition-all ease-in-out duration-200 hover:scale-125 active:scale-95">Cloud
                     9</a>
-                <div>
+                <div class="justify-center items-center ml-auto">
                     <a href="/"
                         class="inline-block text-gray-700 hover:text-slate-900 px-6 py-2 rounded-md text-xl font-medium transition-all ease-in-out duration-200 hover:scale-125 active:scale-95">Home</a>
                     <a href="{{ route('reservasi') }}"
