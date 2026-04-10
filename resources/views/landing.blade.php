@@ -20,7 +20,7 @@
         <nav class="bg-slate-100/20 backdrop-blur-sm p-4">
             <div class="container flex items-center justify-between">
                 <a href="/"
-                    class="inline-block text-slate-900 text-3xl font-bold ml-80 rounded-md transition-all ease-in-out duration-200 hover:scale-125 active:scale-95">Cloud
+                    class="inline-block text-slate-900 text-3xl font-bold ml-auto rounded-md transition-all ease-in-out duration-200 hover:scale-125 active:scale-95">Cloud
                     9</a>
                 <div>
                     <a href="/"
